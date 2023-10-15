@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:1.7.9
+        image: Bandhapu-522501
         ports:
         - containerPort: 80
 ---
